@@ -71,6 +71,6 @@ repository root before running; it is not redistributed here.
 ## Background
 
 This project was developed for a graduate course in mathematical machine
-learning. The emphasis is on interpreting model behavior — overfitting,
+learning. The emphasis is on interpreting model behavior, overfitting,
 ensemble effects, feature importance, and the accuracy/efficiency trade-off
 rather than on maximizing a single accuracy score.
